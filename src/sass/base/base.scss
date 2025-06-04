@@ -1,3 +1,5 @@
+@use '/src/sass/base/variables.scss' as *;
+@use '/src/sass/libs/helvetica-neue-cyr.css';
 h1,
 h2,
 h3,
@@ -31,9 +33,9 @@ img {
 }
 
 html {
-    font-family: "Barlow", sans-serif;
     scroll-behavior: smooth;
 }
+
 
 .container {
     padding: 0 10px;
