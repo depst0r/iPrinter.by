@@ -1,0 +1,11 @@
+.header {
+    &__img {
+        width: 15vh;
+        &-logo {
+            width: 100%;
+        }
+    }
+    &__menu {
+        visibility: hidden;
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "iprinret.by",
+  "version": "1.0.0",
+  "description": "svetlogors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@sergey_panteleenko",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss": "^8.5.4",
+    "postcss-pxtorem": "^6.1.0",
+    "sass": "^1.89.1",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "purecss": "^3.0.0"
+  }
+}
